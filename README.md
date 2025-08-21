@@ -90,9 +90,6 @@ Planned Milestones:
    - Build interactive web UI  
 
 4. **Deployment (Deadline: 11/16)**  
-   - Deploy full-stack app to GitHub/Website  
+   - Deploy full-stack app
 
 ---
-
-## 📂 Repository Structure
-
