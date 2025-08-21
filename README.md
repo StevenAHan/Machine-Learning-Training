@@ -44,7 +44,7 @@ It covers foundations, core ML techniques, and culminates in building a full pro
 
 ### Phase 2: Core ML Techniques
 
-**Book: [Machine Learning with PyTorch and Scikit-Learn]([https://sebastianraschka.com/books.html](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1))**  
+**Book: [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1)**  
 
 - [x] Chapter 1 – Giving Computers the Ability to Learn from Data  
 - [x] Chapter 2 – Training Simple ML Algorithms for Classification  
