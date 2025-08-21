@@ -69,7 +69,7 @@ It covers foundations, core ML techniques, and culminates in building a full pro
 
 Each chapter includes:
 - Notes ([example](https://www.notion.so/Chapter-6-Notes-2428683c059b8014a483f2bfa5ee5b9f?pvs=21))  
-- Quiz created and answered with ChatGPT ([example](https://www.notion.so/Chapter-7-Quiz-Ensemble-Learning-2468683c059b80599079fbae04a7448e?pvs=21))  
+- Quiz ([example](https://www.notion.so/Chapter-7-Quiz-Ensemble-Learning-2468683c059b80599079fbae04a7448e?pvs=21))  
 
 
 ---
