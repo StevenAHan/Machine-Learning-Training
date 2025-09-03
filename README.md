@@ -54,9 +54,9 @@ It covers foundations, core ML techniques, and culminates in building a full pro
 - [x] Chapter 6 – Model Evaluation & Hyperparameter Optimization  
 - [x] Chapter 7 – Ensemble Learning  
 - [x] Chapter 8 – Sentiment Analysis  
-- [ ] Chapter 9 – Regression Analysis *(in progress)*  
-- [ ] Chapter 10 – Clustering Analysis  
-- [ ] Midterm (50 Questions) – *9/03*  
+- [x] Chapter 9 – Regression Analysis *(in progress)*  
+- [x] Chapter 10 – Clustering Analysis  
+- [ ] Midterm (50 Questions) – *9/04*  
 - [ ] Chapter 11 – Implementing a Multilayer Artificial Neural Network from Scratch  
 - [ ] Chapter 12 – Parallelizing Neural Network Training with PyTorch  
 - [ ] Chapter 13 – Going Deeper: The Mechanics of PyTorch  
